@@ -5,8 +5,6 @@
 http://ipeteve.com/php/y.php?v=WzyeiiVQa_A&f.m3u8
 #EXTINF:0 tvg-logo="", Discovery ID
 http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:0 tvg-logo="", France 24
-https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:0 tvg-logo="", DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:0 tvg-logo="", NASA Public
@@ -21,10 +19,6 @@ https://dai.google.com/linear/hls/pa/event/asXufUKSSKisiLSMHR2BXA/stream/3b3095b
 https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/2dd7280d-f4dc-4dcf-9e01-9cea2fb3979b:BRU/master.m3u8
 #EXTINF:0 tvg-logo="", Vibe TV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
-#EXTINF:0 tvg-logo="", Canal 6 Monterrey
-https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0 tvg-logo="", Canal 6 CDMX
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0 tvg-logo="", Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:0 tvg-logo="", Canal ONCE
@@ -95,8 +89,6 @@ http://ipeteve.com/php/SR_REGIO100321/tp.php?c=70&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=84&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, AZTECA 7 HD 
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, AZTECA 7 HD (2)
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=322&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, IMAGEN TV  
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MULTIMEDIOS MTY
@@ -236,7 +228,7 @@ http://ipeteve.com/php/SR_REGIO100321/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 *** ENTRETENIMIENTO ***
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=85&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX  
+#EXTINF:-1, FOX CHANNEL
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=46&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, SONY  
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=48&p=3&k=srregio&f=.m3u8  
@@ -399,18 +391,12 @@ http://ipeteve.com/php/SR_REGIO100321/tp.php?c=334&p=3&k=srregio&f=.m3u8
 
 
 *** NOTICIAS ***
-#EXTINF:-1, FOROTV HD
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=4&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FOROTV SD
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=19&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, ADN40
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=40&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, ADN 40 HD
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=184&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO100321/tp.php?c=40&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, CNN
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=185&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CNN SD
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=186&p=3&k=srregio&f=.m3u8  
+http://ipeteve.com/php/SR_REGIO100321/tp.php?c=185&p=3&k=srregio&f=.m3u8    
 #EXTINF:-1, CNN Ñ SD
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=187&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, WOBI 
@@ -418,9 +404,7 @@ http://ipeteve.com/php/SR_REGIO100321/tp.php?c=102&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FOXN EWS
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=188&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, BLOOMBERG 
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=190&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, BBC SD
-http://ipeteve.com/php/SR_REGIO100321/tp.php?c=191&p=3&k=srregio&f=.m3u8 
+http://ipeteve.com/php/SR_REGIO100321/tp.php?c=190&p=3&k=srregio&f=.m3u8   
 #EXTINF:-1, AL JAAZERA 
 http://ipeteve.com/php/SR_REGIO100321/tp.php?c=192&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, NTN 24
