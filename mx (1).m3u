@@ -186,7 +186,7 @@ http://ipeteve.com/php/SR_REGIO160321/tp.php?c=121&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, GOLDEN
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, GOLDEN EDGE  
+#EXTINF:-1, GOLDEN EDGE
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, TNT 
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=126&p=3&k=srregio&f=.m3u8  
@@ -194,7 +194,7 @@ http://ipeteve.com/php/SR_REGIO160321/tp.php?c=126&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=128&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, SPACE
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, AMC Networks
+#EXTINF:-1, AMC 
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=131&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, STUDIO UNIVERSAL
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=132&p=3&k=srregio&f=.m3u8  
@@ -204,7 +204,7 @@ http://ipeteve.com/php/SR_REGIO160321/tp.php?c=135&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=136&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FILMS & ARTS
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=137&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FX
+#EXTINF:-1, FXM
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=138&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, FXM SD 
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=332&p=3&k=srregio&f=.m3u8
@@ -236,7 +236,7 @@ http://ipeteve.com/php/SR_REGIO160321/tp.php?c=1787&p=3&k=srregio&f=.m3u8
 *** ENTRETENIMIENTO ***
 #EXTINF:-1, TELEMUNDO INTERNACIONAL HD
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=85&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, FOX CHANNEL
+#EXTINF:-1, FOX CHANNEL  
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=46&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, SONY  
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=48&p=3&k=srregio&f=.m3u8  
@@ -266,7 +266,7 @@ http://ipeteve.com/php/SR_REGIO160321/tp.php?c=76&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=74&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, FOX LIFE
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=77&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, DISTRITO COMEDIA 
+#EXTINF:-1, DISTRITO COMEDIA SD
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=78&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, TRUTV
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=79&p=3&k=srregio&f=.m3u8 
@@ -445,6 +445,7 @@ http://ipeteve.com/php/SR_REGIO160321/tp.php?c=1649&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, FRANCE 24
 http://ipeteve.com/php/SR_REGIO160321/tp.php?c=2402&p=3&k=srregio&f=.m3u8  
+  
  
   
   
